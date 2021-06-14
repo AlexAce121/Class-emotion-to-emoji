@@ -1,0 +1,1 @@
+# Class-emotion-to-emoji
